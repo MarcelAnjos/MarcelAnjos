@@ -5,7 +5,7 @@
 </div>
 
 - ☂️ Em busca do primeiro emprego
-- 🌱 Estudando Front-End (3 semanas - 4 horas por dia)
+- 🌱 Estudando Front-End
 - 📫 Contate-me no email: macroezzop@gmail.com
 - 😄 Pronouns: ele/dele
 
