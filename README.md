@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Marcel Anjos  💎   
 
 <div>
-  <img src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" height="200" widht="200" align="left">
+  <img src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" height="200" widht="200" align="right">
 </div>
 
 - ☂️ Em busca do primeiro emprego
