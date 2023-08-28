@@ -10,7 +10,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcelAnjos&show_icons=true&theme=calm">
+  <img heigh="50cm" src="https://github-readme-stats.vercel.app/api?username=MarcelAnjos&show_icons=true&theme=calm">
   
 <div>
   
