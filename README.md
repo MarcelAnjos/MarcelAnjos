@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Marcel Anjos  💎   
 
 <div>
-  <img src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" height="200" widht="200" align="right">
+  <img src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" height="200" widht="200" align="left">
 </div>
 
 - ☂️ Em busca do primeiro emprego
@@ -10,7 +10,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <img heigh="50cm" src="https://github-readme-stats.vercel.app/api?username=MarcelAnjos&show_icons=true&theme=calm">
+  <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcelAnjos&show_icons=true&theme=calm">
   
 <div>
   
