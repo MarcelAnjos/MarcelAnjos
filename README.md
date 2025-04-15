@@ -7,7 +7,7 @@
 - ☂️ Em busca do primeiro emprego
 - 🌱 Estudando Front-End
 - 📫 Contate-me no email: macroezzop@gmail.com
-- 😄 Pronouns: ele/dele
+
 
   
 <div>
