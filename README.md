@@ -4,11 +4,7 @@
   <img src="https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif" height="220" widht="80" align="right">
 </div>
 
-- ☂️ Em busca do primeiro emprego
-- 🌱 Estudando Front-End
-- 📫 Contate-me no email: macroezzop@gmail.com
-
-
+- Learning about Data Scienc
   
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="50">
